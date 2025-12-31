@@ -62,3 +62,4 @@ The project follows an organized structure to facilitate navigation and maintena
 |-- App.tsx
 |-- main.tsx
 ```
+
